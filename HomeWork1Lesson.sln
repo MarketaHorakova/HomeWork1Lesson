@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork1Lesson", "HomeWork
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1_Min_Max_Sum", "..\HW1_Min_Max_Sum\HW1_Min_Max_Sum.csproj", "{F57F8CB0-5AFB-46B0-A999-4AF2AAA1AE4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw1_Stairs", "..\Hw1_Stairs\Hw1_Stairs.csproj", "{316706B3-5729-41E2-B7EB-2A7B15D4836C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F57F8CB0-5AFB-46B0-A999-4AF2AAA1AE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F57F8CB0-5AFB-46B0-A999-4AF2AAA1AE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F57F8CB0-5AFB-46B0-A999-4AF2AAA1AE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316706B3-5729-41E2-B7EB-2A7B15D4836C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316706B3-5729-41E2-B7EB-2A7B15D4836C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316706B3-5729-41E2-B7EB-2A7B15D4836C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316706B3-5729-41E2-B7EB-2A7B15D4836C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
